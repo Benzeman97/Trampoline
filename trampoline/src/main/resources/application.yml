@@ -1,0 +1,17 @@
+settings:
+   file:
+      name: settings.txt
+   folder:
+      path:
+        linux: /home/#userName/Documents/trampoline
+        mac: /Users/#userName/Documents/trampoline
+        windows: C:/Temp/trampoline
+        
+trampoline:
+     version: 3.15       
+     
+server:
+    port: 9089
+     
+        
+        
